@@ -1,8 +1,8 @@
 # 👋 Hola, soy Sergio Devece
 
-Estoy en plena transición profesional hacia el desarrollo de software. En septiembre comienzo **DAM**, y mientras tanto estoy construyendo proyectos reales para aprender programación desde la práctica.
+Estoy en plena transición profesional hacia el desarrollo de software. Cursando **DAM** en DIGITECH, y mientras tanto estoy construyendo proyectos reales para aprender programación desde la práctica.
 
-Mi línea de trabajo se llama **Vitalab**: apps y webs personalizadas, pensadas desde casos reales, hábitos, salud, creatividad, productividad y audio profesional.
+Mi línea de trabajo se llama **Vitalab** Y **VITALAB AUDIO**: apps y webs personalizadas, pensadas desde casos reales, hábitos, salud, creatividad, productividad y audio profesional.
 
 ## En qué estoy trabajando ahora
 
