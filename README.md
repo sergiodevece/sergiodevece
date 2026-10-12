@@ -6,7 +6,7 @@
 
 Después de más de 30 años trabajando en música, producción, mezcla y mastering, estoy trasladando ese criterio técnico y creativo al desarrollo de software.
 
-Actualmente curso **Desarrollo de Aplicaciones Multiplataforma (DAM)** y construyo proyectos reales para aprender desde la práctica, con especial interés en **audio, IA aplicada, automatización y herramientas para creadores**.
+Actualmente curso **Desarrollo de Aplicaciones Multiplataforma (DAM) en DIGITECH ** y construyo proyectos reales para aprender desde la práctica, con especial interés en **audio, IA aplicada, automatización y herramientas para creadores**.
 
 </div>
 
