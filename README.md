@@ -71,8 +71,7 @@ La IA acelera la implementación y la revisión; mi objetivo es entender cada ve
 
 ### Flujo de trabajo
 
-`Codex` · `Agentes de IA` · `GitHub Copilot` · `Auditorías técnicas` · `Documentación` · `Control de versiones`
-
+`Codex` · `Agentes de IA` · `GitHub Copilot` · `Auditorías técnicas` · `Documentación` · `Control de versiones` · `Claude Code`
 ---
 
 ## 🌱 Ahora mismo
