@@ -36,7 +36,7 @@ Actualmente incluye fundamentos de:
 
 ## 🧭 Cómo trabajo
 
-Uso un flujo de **desarrollo asistido por IA** con agentes especializados, principalmente **Codex**, manteniendo explícitos los requisitos, las decisiones de producto y los criterios de aceptación.
+Uso un flujo de **desarrollo asistido por IA** con agentes especializados, principalmente **Claude Code** y **Codex**, manteniendo explícitos los requisitos, las decisiones de producto y los criterios de aceptación.
 
 * Diseño a partir de flujos de trabajo reales de músicos y productores.
 * Desarrollo incremental con commits y versiones pequeñas.
