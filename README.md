@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Sergio Devece · Serx 👋
+# Hola, soy Sergio Devece · SerxDev 👋
 
 ### Productor musical · Estudiante de DAM · Creador de herramientas de audio
 
