@@ -10,13 +10,23 @@ Construyo **instrumentos web, plugins de audio y un DAW nativo** dentro de **Vit
 
 **Criterio musical, desarrollo asistido por IA y aprendizaje desde la práctica.**
 
-[**Portfolio · serxdev.org**](https://serxdev.org) · [Probar VOLT/16](https://volt-16-live-drum-machine-synth-bass.netlify.app/) · [Explorar VitaDAW](https://github.com/sergiodevece/VITADAW) · [Conocer HARMOHIT MASTER](https://github.com/sergiodevece/VitaPlug-HARMOHIT-MASTER)
+[**Portfolio · serxdev.org**](https://serxdev.org) · [Probar VOLT/16](https://volt-16-live-drum-machine-synth-bass.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/sergiodevece) · [Explorar VitaDAW](https://github.com/sergiodevece/VITADAW) · [Conocer HARMOHIT MASTER](https://github.com/sergiodevece/VitaPlug-HARMOHIT-MASTER)
 
 📍 Valencia, España
 
 </div>
 
 ---
+
+## 💼 Trayectoria profesional y experiencia de producto
+
+Además de mi formación actual en programación, aporto **más de 30 años de experiencia en audio** y **alrededor de 100 trabajos discográficos documentados**, con funciones de producción, grabación, mezcla y/o mastering según el proyecto.
+
+Durante **siete años fui jefe de producto en ADAGIO S.A.**, gestionando distintas familias de **DJ, audio profesional, instrumentos eléctricos, amplificación e informática musical**, al tiempo que trabajaba en mi estudio. Impulsé la entrada de equipamiento DJ en comercios que antes no lo vendían.
+
+En **2010 fui seleccionado conjuntamente por Pioneer DJ y ADAGIO S.A. para el Pioneer Forward Award**, por resultados comerciales, gestión de producto y desarrollo de mercado.
+
+Esta experiencia informa cómo defino necesidades de usuarios, priorizo funciones y pruebo mis herramientas de audio. **La experiencia previa de producto no sustituye mi aprendizaje de ingeniería de software, que sigue en curso.**
 
 ## 🎛️ VitaDAW · Proyecto de largo recorrido
 
@@ -62,6 +72,8 @@ Herramientas de audio desarrolladas con **C++ y JUCE**, guiadas por la escucha e
 | [**HARMOHIT MASTER**](https://github.com/sergiodevece/VitaPlug-HARMOHIT-MASTER) | Modelado espectral, excitación y DRIVE 670 con compresión y coloración; procesamiento estéreo y Mid/Side. | Versión de desarrollo, probada como AU en Logic sobre Apple Silicon. |
 | [**HARMOHIT MIX**](https://github.com/sergiodevece/VitaPlug-HARMOHIT) | Modelado espectral, excitación aural y drive para pistas y buses. | Proyecto en desarrollo; el repositorio distingue el editor implementado y las referencias visuales. |
 | [**Gainer80**](https://github.com/sergiodevece/vitaplug-gainer80) | Ganancia, realce de graves a 80/160 Hz y medidores VU de entrada y salida. | Base de desarrollo v0.1.0, con validación AU en Logic y comprobaciones adicionales pendientes por plataforma y formato. |
+| **LAB2C** | Compresor de inspiración valvular; interfaz y validaciones en evolución. | En desarrollo. Documentación descriptiva; código de trabajo privado. |
+| **LABQ8** | Ecualizador paramétrico de ocho bandas, dinámica por bandas de campana y analizador espectral. | En desarrollo; interfaz y smoke tests internos realizados, sin lanzamiento público. |
 
 [![HARMOHIT MASTER: render del editor real de la versión de desarrollo v0.2.0](https://github.com/sergiodevece/VitaPlug-HARMOHIT-MASTER/blob/main/Documentation/screenshots/HARMOHIT_MASTER_v0.2.0_editor_render_1520x760.png?raw=true)](https://github.com/sergiodevece/VitaPlug-HARMOHIT-MASTER)
 
