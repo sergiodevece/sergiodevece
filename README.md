@@ -103,7 +103,7 @@ Las tecnologías utilizadas describen el trabajo de los proyectos; mi formación
 
 ## 🧭 Cómo trabajo con IA
 
-Dirijo el producto desde la experiencia musical: defino necesidades, prioridades y criterios de aceptación, reviso resultados y realizo las pruebas de escucha y de uso con dispositivos reales.
+Dirijo el producto desde la experiencia profesional y musical: defino necesidades, prioridades y criterios de aceptación, reviso resultados y realizo las pruebas de escucha y de uso con dispositivos reales.
 
 Utilizo **ChatGPT, Claude Code y Codex** para planificar, investigar, implementar, depurar y revisar, según lo que requiera cada tarea. El proceso combina cambios acotados, control de versiones, pruebas automatizadas y documentación de las decisiones y los límites conocidos.
 
