@@ -2,7 +2,7 @@
 
 # Hola, soy Sergio Devece · SerxDev 👋
 
-### Productor musical · Estudiante de DAM · Creador de herramientas de audio
+### Productor musical · Estudiante de DAM · Creador de herramientas de audio - AI engineering 
 
 Más de 30 años de experiencia en música, producción, mezcla y mastering, ahora también aplicados al desarrollo de software.
 
